@@ -1,0 +1,74 @@
+/*
+    About_Area
+*/
+#about_area{
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    max-width: 
+}
+.name_area{
+    display: grid;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    border: 5px solid;
+    max-width: 770px;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.name_area h1{
+    text-transform: uppercase;
+    font-size: 49px;
+    font-weight: bold;
+    font-family: 'Old Standard TT', serif;
+    color: #000000;
+}
+.name_area h4{
+    font-size: 23px;
+    font-weight: normal;
+    font-family: 'Old Standard TT', serif;
+    color: #000000;
+}
+.img_section{
+    display: flex;
+    justify-content: center;
+}
+.img_section img{
+    max-width: 100%;
+    opacity: 1;
+    border-style: dotted;
+    border-color: #ededed;
+    border-radius: 1000px 1000px 1000px 1000px;
+}
+#about_area .col-md-6{
+    margin-top: 40px;
+
+}
+.heading_title{
+    font-family: 'Old Standard TT', serif;
+    font-size: 31px;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: 3px;
+}
+.experience{
+    border-style: solid;
+    border-width: 0px 3px 0px 0px;
+    border-color: #000000;
+    text-align: right;
+    padding: 40px 40px 40px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
